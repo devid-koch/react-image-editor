@@ -43,7 +43,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "GENERATE_SOURCEMAP=false react-scripts build",
+    "build": "react-scripts build",
     "serve": "serve -s -c ./serve.json -l 3000",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
