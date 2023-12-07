@@ -1,0 +1,47 @@
+[
+  {
+    "type": "text",
+    "id": "sample-text-1",
+    "width": 250,
+    "height": 35,
+    "fontSize": 30,
+    "fontFamily": "serif",
+    "text": "hello world!"
+  },
+  {
+    "type": "text",
+    "id": "sample-text-2",
+    "width": 250,
+    "height": 35,
+    "fontSize": 30,
+    "fontFamily": "'Fira Mono', monospace",
+    "text": "Devid"
+  },
+  {
+    "type": "text",
+    "id": "sample-text-3",
+    "width": 250,
+    "height": 35,
+    "fontSize": 30,
+    "fontFamily": "'Hurricane', cursive",
+    "text": "hello world!"
+  },
+  {
+    "type": "text",
+    "id": "sample-text-4",
+    "width": 250,
+    "height": 35,
+    "fontSize": 30,
+    "fontFamily": "'League Gothic', sans-serif",
+    "text": "hello world!"
+  },
+  {
+    "type": "text",
+    "id": "sample-text-5",
+    "width": 250,
+    "height": 35,
+    "fontSize": 30,
+    "fontFamily": "'Roboto Slab', serif",
+    "text": "hello world!"
+  }
+]
